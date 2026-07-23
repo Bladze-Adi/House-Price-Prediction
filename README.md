@@ -24,6 +24,8 @@ Real estate pricing is influenced by complex, non-linear relationships across va
 
 ## ⚙️ 3. HOW (Methodology & Implementation)
 
+* **Dataset:** Built-in California Housing Dataset (`sklearn.datasets.fetch_california_housing`)
+
 The project follows a structured data science workflow implemented inside the Jupyter Notebook:
 
 ### A. Data Preprocessing & Cleaning
